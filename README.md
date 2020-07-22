@@ -1,2 +1,2 @@
 # Machine-Learning
-A-Z Machine Learning Algorithm and Concepts
+Python Concepts and Machine Learning Algorithm
